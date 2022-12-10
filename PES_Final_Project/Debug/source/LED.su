@@ -1,0 +1,2 @@
+../source/LED.c:43:6:PWM_START	8	static
+../source/LED.c:81:6:colors	24	static

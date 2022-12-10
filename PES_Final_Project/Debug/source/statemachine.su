@@ -1,0 +1,6 @@
+../source/statemachine.c:29:6:state_machine	8	static
+../source/statemachine.c:50:9:handle_calibrate_to_zero	8	static
+../source/statemachine.c:88:9:handle_calibrate_state	8	static
+../source/statemachine.c:117:9:handle_angle_gauge_state	8	static
+../source/statemachine.c:148:6:angle_detect_color_assign	16	static
+../source/statemachine.c:182:6:set_reference_angle	16	static

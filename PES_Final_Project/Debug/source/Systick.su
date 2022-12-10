@@ -1,0 +1,9 @@
+C:\Users\Rajesh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\PES_Final_Project\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+C:\Users\Rajesh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\PES_Final_Project\CMSIS/core_cm0plus.h:756:22:NVIC_DisableIRQ	16	static
+C:\Users\Rajesh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\PES_Final_Project\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/Systick.c:33:6:init_systick	8	static
+../source/Systick.c:47:12:now	8	static
+../source/Systick.c:59:6:reset_timer	8	static
+../source/Systick.c:71:12:get_timer	8	static
+../source/Systick.c:83:6:SysTick_Handler	8	static
+../source/Systick.c:96:6:get_interrupt_status	16	static
