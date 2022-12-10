@@ -16,7 +16,8 @@ Challenges faced are to integrate I2C to UART and also the calculation of roll a
 
 Thank you Mukta and Nimish for helping me out through out the assignment and this semister and also thanks to Lalit Pandit Sir for the teachings and guidance</br>
 
-UART Settings:</br>
-Baudrate:38400</br>
-Stop bits : 2</br>
-parity bits:none</br>
+The required settings for UART were:</br>
+i)Baud rate:38400</br>
+ii)Parity bits:0 </br>
+iii)Stop bits:2 </br>
+iv)Total data bits :8</br>
