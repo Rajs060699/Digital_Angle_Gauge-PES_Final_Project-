@@ -22,5 +22,8 @@ ii)Parity bits:0 </br>
 iii)Stop bits:2 </br>
 iv)Total data bits :8</br>
 
+NOTE: I have included log file which shows the ROLL and PITCH Values in UART for the command called 'angle'</br> and also included PDF of state machine and please view the log file via Notepad</br>
+
 Please find the Project Video Demonstration below via google doc link:</br>
+
 https://drive.google.com/drive/folders/15Wb9ZRyAPbfEZ1HxP-fEK00Hb5iByYH_?usp=sharing </br>
