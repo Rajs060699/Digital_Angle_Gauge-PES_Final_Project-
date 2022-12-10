@@ -1,4 +1,4 @@
-My final Project is Digital Angle Gauge using I2C where I will be calculating Roll and Pitch values and will be displayed in UART and also I have included calibration using UART and switch GPIO I have mentioned in the proposal </br>
+My final Project is Digital Angle Gauge using I2C where I will be calculating Roll and Pitch values and will be displayed in UART and also I have included calibration using UART and switch GPIO which I have mentioned in the proposal </br>
 
 I have written test suites for the working of cbfifo,angle detect and LED glow through PWM</br>
 
