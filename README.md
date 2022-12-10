@@ -14,7 +14,7 @@ My learnings from this will be learning to handle multiple protocols and interru
 
 Challenges faced are to integrate I2C to UART and also the calculation of roll and pitch and also to maintain LED for the perspective orientation</br>
 
-Thank you Mukta and Nimish for helping me out through out the assignment and this semister and also thanks to lalit pandit sir for the teachings and guidance</br>
+Thank you Mukta and Nimish for helping me out through out the assignment and this semister and also thanks to Lalit Pandit Sir for the teachings and guidance</br>
 
 UART Settings:</br>
 Baudrate:38400</br>
