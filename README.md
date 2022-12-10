@@ -23,4 +23,4 @@ iii)Stop bits:2 </br>
 iv)Total data bits :8</br>
 
 Please find the Project Video Demonstration below via google doc link:</br>
-https://drive.google.com/drive/u/1/folders/15Wb9ZRyAPbfEZ1HxP-fEK00Hb5iByYH_</br>
+https://drive.google.com/file/d/1nJvmwY5UWZPc2z5ak8vMTPYBnjQnjv7Z/view?usp=sharing </br>
