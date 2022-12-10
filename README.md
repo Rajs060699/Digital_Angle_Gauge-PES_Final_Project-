@@ -21,3 +21,6 @@ i)Baud rate:38400</br>
 ii)Parity bits:0 </br>
 iii)Stop bits:2 </br>
 iv)Total data bits :8</br>
+
+Please find the Project Video Demonstration below via google doc link:</br>
+https://drive.google.com/drive/u/1/folders/15Wb9ZRyAPbfEZ1HxP-fEK00Hb5iByYH_</br>
